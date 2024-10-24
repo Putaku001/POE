@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kenne\\OneDrive\\Documentos\\parcial\\parcial2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41886F75-944F-45D1-B118-C8C92C468CE7}|PresentatioLayer\\PresentatioLayer.csproj|C:\\Users\\kenne\\OneDrive\\Documentos\\parcial\\parcial2\\presentatiolayer\\forms\\phoneform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41886F75-944F-45D1-B118-C8C92C468CE7}|PresentatioLayer\\PresentatioLayer.csproj|solutionrelative:presentatiolayer\\forms\\phoneform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41886F75-944F-45D1-B118-C8C92C468CE7}|PresentatioLayer\\PresentatioLayer.csproj|c:\\users\\kenne\\onedrive\\documentos\\parcial\\parcial2\\presentatiolayer\\forms\\phoneform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41886F75-944F-45D1-B118-C8C92C468CE7}|PresentatioLayer\\PresentatioLayer.csproj|solutionrelative:presentatiolayer\\forms\\phoneform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41886F75-944F-45D1-B118-C8C92C468CE7}|PresentatioLayer\\PresentatioLayer.csproj|c:\\users\\kenne\\onedrive\\documentos\\parcial\\parcial2\\presentatiolayer\\validation\\providervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41886F75-944F-45D1-B118-C8C92C468CE7}|PresentatioLayer\\PresentatioLayer.csproj|solutionrelative:presentatiolayer\\validation\\providervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A703D110-EBF3-4C92-8627-1E2A7AE12D30}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\kenne\\onedrive\\documentos\\parcial\\parcial2\\dataaccesslayer\\repositories\\phonerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A703D110-EBF3-4C92-8627-1E2A7AE12D30}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\phonerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41886F75-944F-45D1-B118-C8C92C468CE7}|PresentatioLayer\\PresentatioLayer.csproj|c:\\users\\kenne\\onedrive\\documentos\\parcial\\parcial2\\presentatiolayer\\forms\\providerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41886F75-944F-45D1-B118-C8C92C468CE7}|PresentatioLayer\\PresentatioLayer.csproj|solutionrelative:presentatiolayer\\forms\\providerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A703D110-EBF3-4C92-8627-1E2A7AE12D30}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\kenne\\onedrive\\documentos\\parcial\\parcial2\\dataaccesslayer\\repositories\\providerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A703D110-EBF3-4C92-8627-1E2A7AE12D30}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\providerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100F7255-B16B-450B-9099-38E992CAA64F}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\kenne\\onedrive\\documentos\\parcial\\parcial2\\businesslayer\\services\\providerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100F7255-B16B-450B-9099-38E992CAA64F}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\providerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41886F75-944F-45D1-B118-C8C92C468CE7}|PresentatioLayer\\PresentatioLayer.csproj|c:\\users\\kenne\\onedrive\\documentos\\parcial\\parcial2\\presentatiolayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41886F75-944F-45D1-B118-C8C92C468CE7}|PresentatioLayer\\PresentatioLayer.csproj|solutionrelative:presentatiolayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5137B85-0DB4-4009-AF43-D65C8C8DDEA7}|CommonLayer\\CommonLayer.csproj|c:\\users\\kenne\\onedrive\\documentos\\parcial\\parcial2\\commonlayer\\entities\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5137B85-0DB4-4009-AF43-D65C8C8DDEA7}|CommonLayer\\CommonLayer.csproj|solutionrelative:commonlayer\\entities\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41886F75-944F-45D1-B118-C8C92C468CE7}|PresentatioLayer\\PresentatioLayer.csproj|c:\\users\\kenne\\onedrive\\documentos\\parcial\\parcial2\\presentatiolayer\\validation\\phonevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41886F75-944F-45D1-B118-C8C92C468CE7}|PresentatioLayer\\PresentatioLayer.csproj|solutionrelative:presentatiolayer\\validation\\phonevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41886F75-944F-45D1-B118-C8C92C468CE7}|PresentatioLayer\\PresentatioLayer.csproj|C:\\Users\\kenne\\OneDrive\\Documentos\\parcial\\parcial2\\presentatiolayer\\forms\\providerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41886F75-944F-45D1-B118-C8C92C468CE7}|PresentatioLayer\\PresentatioLayer.csproj|solutionrelative:presentatiolayer\\forms\\providerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A703D110-EBF3-4C92-8627-1E2A7AE12D30}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\kenne\\onedrive\\documentos\\parcial\\parcial2\\dataaccesslayer\\dbconnect\\sqlconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A703D110-EBF3-4C92-8627-1E2A7AE12D30}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dbconnect\\sqlconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Provider.cs",
+              "DocumentMoniker": "C:\\Users\\kenne\\OneDrive\\Documentos\\parcial\\parcial2\\CommonLayer\\Entities\\Provider.cs",
+              "RelativeDocumentMoniker": "CommonLayer\\Entities\\Provider.cs",
+              "ToolTip": "C:\\Users\\kenne\\OneDrive\\Documentos\\parcial\\parcial2\\CommonLayer\\Entities\\Provider.cs",
+              "RelativeToolTip": "CommonLayer\\Entities\\Provider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:03:32.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProviderValidator.cs",
+              "DocumentMoniker": "C:\\Users\\kenne\\OneDrive\\Documentos\\parcial\\parcial2\\PresentatioLayer\\Validation\\ProviderValidator.cs",
+              "RelativeDocumentMoniker": "PresentatioLayer\\Validation\\ProviderValidator.cs",
+              "ToolTip": "C:\\Users\\kenne\\OneDrive\\Documentos\\parcial\\parcial2\\PresentatioLayer\\Validation\\ProviderValidator.cs",
+              "RelativeToolTip": "PresentatioLayer\\Validation\\ProviderValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:17:35.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhoneForm.cs",
+              "DocumentMoniker": "C:\\Users\\kenne\\OneDrive\\Documentos\\parcial\\parcial2\\PresentatioLayer\\Forms\\PhoneForm.cs",
+              "RelativeDocumentMoniker": "PresentatioLayer\\Forms\\PhoneForm.cs",
+              "ToolTip": "C:\\Users\\kenne\\OneDrive\\Documentos\\parcial\\parcial2\\PresentatioLayer\\Forms\\PhoneForm.cs*",
+              "RelativeToolTip": "PresentatioLayer\\Forms\\PhoneForm.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwCUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:35:40.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PhoneForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\kenne\\OneDrive\\Documentos\\parcial\\parcial2\\PresentatioLayer\\Forms\\PhoneForm.cs",
+              "RelativeDocumentMoniker": "PresentatioLayer\\Forms\\PhoneForm.cs",
+              "ToolTip": "C:\\Users\\kenne\\OneDrive\\Documentos\\parcial\\parcial2\\PresentatioLayer\\Forms\\PhoneForm.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "PresentatioLayer\\Forms\\PhoneForm.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:47:59.181Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhoneRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kenne\\OneDrive\\Documentos\\parcial\\parcial2\\DataAccessLayer\\Repositories\\PhoneRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\PhoneRepository.cs",
+              "ToolTip": "C:\\Users\\kenne\\OneDrive\\Documentos\\parcial\\parcial2\\DataAccessLayer\\Repositories\\PhoneRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\PhoneRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:37:10.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProviderForm.cs",
+              "DocumentMoniker": "C:\\Users\\kenne\\OneDrive\\Documentos\\parcial\\parcial2\\PresentatioLayer\\Forms\\ProviderForm.cs",
+              "RelativeDocumentMoniker": "PresentatioLayer\\Forms\\ProviderForm.cs",
+              "ToolTip": "C:\\Users\\kenne\\OneDrive\\Documentos\\parcial\\parcial2\\PresentatioLayer\\Forms\\ProviderForm.cs",
+              "RelativeToolTip": "PresentatioLayer\\Forms\\ProviderForm.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAkwHcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:11:53.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProviderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kenne\\OneDrive\\Documentos\\parcial\\parcial2\\DataAccessLayer\\Repositories\\ProviderRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\ProviderRepository.cs",
+              "ToolTip": "C:\\Users\\kenne\\OneDrive\\Documentos\\parcial\\parcial2\\DataAccessLayer\\Repositories\\ProviderRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\ProviderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:19:43.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProviderService.cs",
+              "DocumentMoniker": "C:\\Users\\kenne\\OneDrive\\Documentos\\parcial\\parcial2\\BusinessLayer\\services\\ProviderService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\services\\ProviderService.cs",
+              "ToolTip": "C:\\Users\\kenne\\OneDrive\\Documentos\\parcial\\parcial2\\BusinessLayer\\services\\ProviderService.cs",
+              "RelativeToolTip": "BusinessLayer\\services\\ProviderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:22:38.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kenne\\OneDrive\\Documentos\\parcial\\parcial2\\PresentatioLayer\\Program.cs",
+              "RelativeDocumentMoniker": "PresentatioLayer\\Program.cs",
+              "ToolTip": "C:\\Users\\kenne\\OneDrive\\Documentos\\parcial\\parcial2\\PresentatioLayer\\Program.cs",
+              "RelativeToolTip": "PresentatioLayer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:19:32.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PhoneValidator.cs",
+              "DocumentMoniker": "C:\\Users\\kenne\\OneDrive\\Documentos\\parcial\\parcial2\\PresentatioLayer\\Validation\\PhoneValidator.cs",
+              "RelativeDocumentMoniker": "PresentatioLayer\\Validation\\PhoneValidator.cs",
+              "ToolTip": "C:\\Users\\kenne\\OneDrive\\Documentos\\parcial\\parcial2\\PresentatioLayer\\Validation\\PhoneValidator.cs",
+              "RelativeToolTip": "PresentatioLayer\\Validation\\PhoneValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:58:13.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProviderForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\kenne\\OneDrive\\Documentos\\parcial\\parcial2\\PresentatioLayer\\Forms\\ProviderForm.cs",
+              "RelativeDocumentMoniker": "PresentatioLayer\\Forms\\ProviderForm.cs",
+              "ToolTip": "C:\\Users\\kenne\\OneDrive\\Documentos\\parcial\\parcial2\\PresentatioLayer\\Forms\\ProviderForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PresentatioLayer\\Forms\\ProviderForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:59:20.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "sqlConnect.cs",
+              "DocumentMoniker": "C:\\Users\\kenne\\OneDrive\\Documentos\\parcial\\parcial2\\DataAccessLayer\\dbConnect\\sqlConnect.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\dbConnect\\sqlConnect.cs",
+              "ToolTip": "C:\\Users\\kenne\\OneDrive\\Documentos\\parcial\\parcial2\\DataAccessLayer\\dbConnect\\sqlConnect.cs",
+              "RelativeToolTip": "DataAccessLayer\\dbConnect\\sqlConnect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:04:54.462Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
